@@ -22,3 +22,33 @@ This project is a **responsive landing page** designed specifically for travel a
 - HTML5
 - CSS3
 - JavaScript.
+
+## Preview 
+
+
+- ### Home Page
+  
+
+![Preview](./home.png)
+
+
+- ### Destination Page
+  
+
+![Preview](./Destination.png)
+
+
+- ### Service Page
+  
+
+![Preview](./Service.png)
+
+
+- ### About and Contact Page
+  
+
+![Preview](./About.png)
+
+
+
+

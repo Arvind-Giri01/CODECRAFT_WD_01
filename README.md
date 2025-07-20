@@ -13,7 +13,7 @@ This project is a **responsive landing page** designed specifically for travel a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Arvind-Giri01/CODECRAFT_WD_02.git
+   git clone https://github.com/Arvind-Giri01/CODECRAFT_WD_01.git
    ```
 2. Open the `index.html` file in your browser to view the landing page.
 
